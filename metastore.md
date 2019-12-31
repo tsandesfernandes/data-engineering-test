@@ -2,8 +2,8 @@
 
 
 Alguns pontos a serem considerados:
-* Donos das tabelas
-* Acesso e permissão das squads 
+* Donos das tabelas(quem ficará encarregado quando surgir nova requisição de acesso da tabela, alteração das colunas, normalmente, essa função fica com o tribe leader)
+* Acesso e permissão das squads (quais times terão acesso a leitura e escrita, e quais colunas os times poderão acessar)
 
 <h2>Metadados das tabelas</h2> 
 
